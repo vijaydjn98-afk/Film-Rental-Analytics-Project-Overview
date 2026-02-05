@@ -13,6 +13,8 @@ The project provides a comprehensive analysis of film rental data to uncover ins
 <img width="2767" height="1600" alt="b7879783-10" src="https://github.com/user-attachments/assets/e3875e65-bc52-4e03-a59d-5552625e4302" />
 <img width="2767" height="1600" alt="b7879783-11" src="https://github.com/user-attachments/assets/135e1600-2f02-4066-9f72-9afe12d5e521" />
 <img width="2767" height="1600" alt="b7879783-12" src="https://github.com/user-attachments/assets/5a90b105-4a19-4a8c-835c-59b310d1ca84" />
+<img width="1654" height="2339" alt="5b72dd90-1" src="https://github.com/user-attachments/assets/b6ec2f0b-f87d-4e7c-8ac8-9bf25e6cccdf" />
+<img width="1654" height="2339" alt="5b72dd90-2" src="https://github.com/user-attachments/assets/711c69dd-5eaa-4947-bf6f-c7e27413e9ae" />
 
 
 
